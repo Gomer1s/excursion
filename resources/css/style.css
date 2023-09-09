@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+header h1{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+
+}
+.link a{
+    color: aquamarine;
+    font-size: 16px;
+}
+.jadro h1{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+.jadro p{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+.zaver h1{
+     font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+ }
+ .zaver a{
+   color: aquamarine;
+    font-size: 16px; 
+ }
+footer{
+    color: gray;
+    text-align: right;
+    font-size: 21px;
+}
